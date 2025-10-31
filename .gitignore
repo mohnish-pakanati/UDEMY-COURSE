@@ -8,6 +8,8 @@ venv/
 env/
 ENV/
 ANIME RECOMMENDER/a_rc/
+ANIME RECOMMENDER/u_rc/
+
 __pycache__/
 
 # Dependencies
