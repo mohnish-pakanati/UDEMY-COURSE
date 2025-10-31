@@ -7,8 +7,7 @@
 venv/
 env/
 ENV/
-u_ar/
-*.pyc
+ANIME RECOMMENDER/a_rc/
 __pycache__/
 
 # Dependencies
