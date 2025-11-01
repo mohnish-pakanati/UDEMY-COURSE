@@ -7,8 +7,6 @@
 venv/
 env/
 ENV/
-ANIME RECOMMENDER/a_rc/
-ANIME RECOMMENDER/u_rc/
 
 __pycache__/
 
@@ -29,3 +27,5 @@ Thumbs.db
 *.swp
 *.swo
 .qodo/
+
+ANIME RECOMMENDER\ANIME_RECOMMENDER.egg-info
