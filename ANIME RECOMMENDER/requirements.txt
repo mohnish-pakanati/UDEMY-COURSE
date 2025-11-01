@@ -1,5 +1,7 @@
 langchain
+langchain-classic
 langchain-community
+langchain-text-splitters
 langchain_groq
 chromadb
 streamlit

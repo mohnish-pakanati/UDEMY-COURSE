@@ -27,5 +27,13 @@ Thumbs.db
 *.swp
 *.swo
 .qodo/
+.claude/
 
-ANIME RECOMMENDER\ANIME_RECOMMENDER.egg-info
+# Python build artifacts
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Vector database
+chroma_db/
